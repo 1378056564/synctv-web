@@ -10,7 +10,7 @@ const mobileMenu = ref(false);
   <header class="bg-gray-50 h-16 dark:bg-zinc-900 dark:text-zinc-100">
     <nav class="flex mx-auto max-w-7xl items-center justify-between lg:px-8 p-4 lg:p-5 px-6">
       <div class="flex lg:flex-1">
-        <span class="-m-1.5 p-1.5 font-bold"> SyncTV </span>
+        <span class="-m-1.5 p-1.5 font-bold"> 咸鱼の友情观影屋 </span>
       </div>
 
       <div class="flex lg:hidden">
@@ -59,7 +59,7 @@ const mobileMenu = ref(false);
         v-show="mobileMenu"
       >
         <div class="flex items-center justify-between">
-          <span class="-m-1.5 p-1.5 font-bold"> SyncTV </span>
+          <span class="-m-1.5 p-1.5 font-bold"> 咸鱼の友情观影屋 </span>
 
           <button
             type="button"
