@@ -9,7 +9,7 @@ import RoomList from "@/components/RoomList.vue";
     <RoomList />
     <br />
     <p>
-      &copy; Copyright 2023 <a href="https://github.com/synctv-org" target="_blank">SyncTV</a> all
+      &copy; Copyright 2023 <a href="https://www.juyuantop.cn" target="_blank">咸鱼の友情观影屋</a> all
       right reserved
     </p>
   </div>
